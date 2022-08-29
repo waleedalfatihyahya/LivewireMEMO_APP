@@ -2,7 +2,7 @@
 A memo web application using Laravel Framework and Livewire.
 
 
-#Installation
+# Installation
 
 1- unzip the file.
 
@@ -11,7 +11,7 @@ A memo web application using Laravel Framework and Livewire.
 3- Copy the local host address into your browser.
 
 
-#Technologies Used
+# Technologies Used
 
 1- HTML 5.
 
@@ -23,6 +23,6 @@ A memo web application using Laravel Framework and Livewire.
 
 5- PHP ( laravel + livewire).
 
-#Important 
+# Important 
 
 before you run the code, please create a database with the same name of the DB_DATABASE name in the .env file.
